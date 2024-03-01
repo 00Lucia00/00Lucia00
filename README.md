@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![profile](Profil_2)
 #### Im studying to become a fullstack developer and data scientist
 
 👀 I Like: SQL, C#, Python, Tenserflow, Javascript
