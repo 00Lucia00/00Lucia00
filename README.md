@@ -1,5 +1,8 @@
-### Hi there 👋
-![profile](Profil_2)
+### Hi there 👋 
+
+<img src="Profil_2.jpg" alt="image" width="300" height="330" border-radius="25%">
+
+#### My name is Lucia Cani 😄
 #### Im studying to become a fullstack developer and data scientist
 
 👀 I Like: SQL, C#, Python, Tenserflow, Javascript
