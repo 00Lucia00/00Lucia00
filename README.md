@@ -1,12 +1,11 @@
-### Hi there 👋 
+### Hi there 👋 My name is Lucia Cani 😄
+
+#### Im studying to become a fullstack developer and data scientist 💻📈     
 
 <img src="Profil_2.jpg" alt="image" width="300" height="330" border-radius="25%">
 
-#### My name is Lucia Cani 😄
-#### Im studying to become a fullstack developer and data scientist
-
 👀 I Like: SQL, C#, Python, Tenserflow, Javascript
-✨ Also:  Photography, Nature and Filosofi
+✨ Also:  Photography, Being in Nature and Thinking about the big Philosophical questions.
 
 🌱 I’m currently learning web development
 
