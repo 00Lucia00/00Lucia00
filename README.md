@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Lucia Cani 😄                                      
-<img src="Profil_2.jpg" alt="image" width="250" height="280" >
+<img src="profil_5.jpg" alt="image" width="250" height="250" >
 
 #### Im studying to become a fullstack developer and data scientist 💻📈     
 
