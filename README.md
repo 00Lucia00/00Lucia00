@@ -6,9 +6,9 @@
 👀 I Like: SQL, C#, Python, Tenserflow, Javascript
 ✨ Also:  Photography, Being in Nature and Thinking about the big Philosophical questions.
 
-🌱 I’m currently learning web development
+🌱 I’m currently learning about chatbots
 
-🔭 I’m currently working on an essay, examining Edge computing AI systems and AI Ehtics.
+🔭 I’m currently working at Linespotting AB as a Data science intern, leading a team of student on a project at the company.
 
 📫 How to reach me:  [linkedin]( https://www.linkedin.com/in/lucia-cani-681463257/) or by Email: oluciacanio@gmail.com
 
