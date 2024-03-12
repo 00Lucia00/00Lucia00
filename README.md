@@ -6,7 +6,7 @@
 👀 I Like: SQL, C#, Python, Tenserflow, Javascript
 ✨ Also:  Photography, Being in Nature and Thinking about the big Philosophical questions.
 
-🌱 I’m currently learning about chatbots
+🌱 I’m currently learning team building skills.
 
 🔭 I’m currently working at Linespotting AB as a Data science intern, leading a team of student on a project at the company.
 
