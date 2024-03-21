@@ -3,7 +3,7 @@
 
 #### Im studying to become a fullstack developer and data scientist 💻📈     
 
-👀 I Like: SQL, C#, Python, Tenserflow, Javascript
+👀 I Like: SQL, C#, Python, Tenserflow
 ✨ Also:  Photography, Being in Nature and Thinking about the big Philosophical questions.
 
 🌱 I’m currently learning team building skills.
